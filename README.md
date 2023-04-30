@@ -11,4 +11,5 @@ Nguyễn Trưuòng Danh|10CL1|1234nguyentruongdanh@gmail.com
 
 Chức năng|Người thực hiện|Ngày hoàn thành dự kiến
 -|-|-
+Đăng ký Project|Nguyễn Trường Danh|30/04/2023
 
