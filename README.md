@@ -13,3 +13,6 @@ Chức năng|Người thực hiện|Ngày hoàn thành dự kiến
 -|-|-
 Đăng ký Project|Nguyễn Trường Danh|30/04/2023
 Hoàn thành Project|Nguyễn Trường Danh|14/05/2023
+
+##Demo link:
+https://youtu.be/PFbEMNuzm_4
