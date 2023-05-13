@@ -5,7 +5,7 @@ Nguyễn Trường Danh|10CL1|1234nguyentruongdanh@gmail.com
 
 # Thông tin project
 ## Đề tài: Hệ thống nhận dạng gương mặt
-## Các thư viện sử dụng: `numpy, streamlit, deepface, cv2, time, pandas, datetime`
+## Các thư viện sử dụng: `numpy, streamlit, deepface, opencv, time, pandas, datetime`
 
 ## Các chức năng chính & kế hoạch thực hiện
 
