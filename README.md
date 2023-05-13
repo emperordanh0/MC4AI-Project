@@ -1,7 +1,7 @@
 # Danh sách thành viên
 Họ Tên|Lớp|Email
 -|-|-
-Nguyễn Trưuòng Danh|10CL1|1234nguyentruongdanh@gmail.com
+Nguyễn Trường Danh|10CL1|1234nguyentruongdanh@gmail.com
 
 # Thông tin project
 ## Đề tài: Hệ thống nhận dạng gương mặt
