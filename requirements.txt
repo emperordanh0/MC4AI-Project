@@ -1,6 +1,6 @@
 deepface
 opencv-python
-time
+python-time
 pandas
 datetime
 numpy
